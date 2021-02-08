@@ -191,7 +191,7 @@ background-position: 100% 0%
 
 --
 
-- .medium-par[[ONE Nueva Zelanda](http://freerangestats.info/blog/2018/05/13/nz-govt-shinyapps)]
+- .medium-par[[ONE Nueva Zelanda - Ingresos y gastos](https://statisticsnz.shinyapps.io/livingcostsexplorer/)]
 
 --
 
@@ -206,6 +206,30 @@ background-position: 100% 0%
 <br/>
 
 .center[.medium-par[El uso de herramientas .pur[*open source*] acercan a las .pur[instituciones] con las .pur[comunidades] de usuarias/os]]
+
+---
+
+background-image: url("imagenes/fondo2.PNG")
+background-size: contain;
+background-position: 100% 0%
+
+# Compromisos institucionales
+
+.center[
+<img src="imagenes/cadp.PNG" width="800" />
+]
+
+---
+
+background-image: url("imagenes/fondo2.PNG")
+background-size: contain;
+background-position: 100% 0%
+
+# Compromisos institucionales
+
+.center[
+<img src="imagenes/cadp-ajustado.PNG" width="800" />
+]
 
 ---
 
